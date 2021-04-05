@@ -34,3 +34,9 @@ From the left panel, select **From Zipped File**
 Click **Install plugin**
 
 To upgrade or switch to an older plugin, repeat the above.
+
+.. figure:: img/InstallFLO-2DPlugin.gif
+	:align: center
+	:alt: Install FLO-2D Plugin
+
+
