@@ -26,49 +26,6 @@ FLo-2D plugin installation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 The plugin is hosted on our repository and accessible by using username and password. First you need to add the repository:
 
-Adding repo
-^^^^^^^^^^^
-
-In QGIS, from the main menu, select **Plugins** > **Manage and Install Plugins**
-
-A new window will appear. From the left panel, select **Settings**
-
-Click on **Add...**
-
-A new window will appear:
-
-For **Name** type **FLO-2D**
-
-For **URL** type **http://www.lutraconsulting.co.uk/client_files/flo2d/qgis-repo/plugins.xml**
-
-For **Authentication** click on **Edit**
-
-A new window will appear
-
-Click on **Add**
-
-Another window will appear
-
-For **Name** type **flo-2d**
-
-Use **Basic authentication**
-
-For **Username** type **flo2duser**
-
-For **Password** type **d2362e91b2**
-
-Click **Save**
-
-Click **OK**
-
-In your **Repository details** window, you should have a text for **Authentication**
-
-Click **OK**
-
-
-FLO-2D repository should be added to your QGIS plugin repos.
-
-
 Installing FLO-2D plugin
 ------------------------
 
