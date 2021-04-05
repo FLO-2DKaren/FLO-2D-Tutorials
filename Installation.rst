@@ -22,19 +22,15 @@ All the dependencies will be automatically selected.
 
 For future update/upgrade, with a new release of QGIS, you can run the installer and the new packages will appear.
 
-FLo-2D plugin installation
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-The plugin is hosted on our repository and accessible by using username and password. First you need to add the repository:
-
 Installing FLO-2D plugin
 ------------------------
 
 In QGIS, from the main menu, select **Plugins** > **Manage and Install Plugins **
 
-From the left panel, select **All**
+From the left panel, select **From Zipped File**
 
-In the **Search** box (top of the window) type **flo-2d**
+**Browse** to the zipped Plugin file and load it.
 
-Select the plugin from the list and click **Install plugin**
+Click **Install plugin**
 
-To upgrade the plugin, repeat the above, but in the last step, select **Upgrade plugin**
+To upgrade or switch to an older plugin, repeat the above.
