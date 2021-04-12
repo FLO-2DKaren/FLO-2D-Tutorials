@@ -1,4 +1,4 @@
-Installation instructions
+Installation Instructions
 =========================
 
 Document below provides details of installing QGIS and FLO-2D plugin from Lutra repo.
@@ -38,5 +38,3 @@ To upgrade or switch to an older plugin, repeat the above.
 .. figure:: img/InstallFLO-2DPlugin.gif
 	:align: center
 	:alt: Install FLO-2D Plugin
-
-
