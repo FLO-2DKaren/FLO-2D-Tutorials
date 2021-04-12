@@ -9,10 +9,10 @@ To create a new database:
 
 In QGIS, FLO-2D Plugin **Settings Button**
 
-.. figure:: img/setting.svg
+.. figure:: img/setting.png
 	:align: center
 	:alt: Creating a new model database
-  
+
 A new window will appear:
 
 	* Click on **Create**
@@ -24,9 +24,8 @@ Click **OK**
 
 As you can see, based on the projection, the plugin sets the appropriate unit (metres or feet).
 
-.. figure:: img/setting.svg
+.. figure:: img/setting.png
 	:align: center
 	:alt: Creating a new model database
 
 	Creating a new model database
-
