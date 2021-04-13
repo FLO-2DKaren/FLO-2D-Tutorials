@@ -2,14 +2,16 @@ Start a Project
 ===============
 
 Before this project can be completed, it is necessary to get the data.
+1. Download the data installer.
+2. Extract the data installer
+3. Run the data installer.
+
 https://flo-2d.sharefile.com/share/view/s3eefbdb43e244a68
 
 In the example below, it is assumed that user is generating a hydraulic model from scratch. First step to build a model, is to create a new database, where all the model files will reside.
 
 Creating a new database
 -----------------------
-To create a new database:
-
 In QGIS, FLO-2D Plugin **Settings Button**
 
 .. figure:: img/settings.png
