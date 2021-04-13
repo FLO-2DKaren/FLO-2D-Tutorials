@@ -2,8 +2,11 @@ Start a Project
 ===============
 
 Before this project can be completed, it is necessary to get the data.
+
 1. Download the data installer.
-2. Extract the data installer
+
+2. Extract the data installer.
+
 3. Run the data installer.
 
 https://flo-2d.sharefile.com/share/view/s3eefbdb43e244a68
