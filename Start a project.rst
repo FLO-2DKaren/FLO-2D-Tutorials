@@ -26,7 +26,7 @@ In QGIS, FLO-2D Plugin click the **Settings Button**
 A new window will appear:
 
 .. figure:: img/settingsdialog.png
-  :align: left
+	:align: left
 	:alt: Creating a new model database
 
 1. Click **Create**
