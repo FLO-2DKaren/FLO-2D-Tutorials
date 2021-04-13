@@ -15,7 +15,7 @@ In the example below, it is assumed that user is generating a hydraulic model fr
 
 Creating a new database
 -----------------------
-In QGIS, FLO-2D Plugin **Settings Button**
+In QGIS, FLO-2D Plugin click the **Settings Button**
 
 .. figure:: img/settings.png
 	:align: left
@@ -29,20 +29,12 @@ A new window will appear:
   :align: left
 	:alt: Creating a new model database
 
-	1. Click **Create**
-	2. In the new window,
-	3. Type in the database name and hit **Save**
-	3. Select the projection in the next window
-	* Set the default **Grid cell size** and the **Manning's n**
+1. Click **Create**
+2. In the new window,
+3. Type in the database name and hit **Save**
+3. Select the projection in the next window
+* Set the default **Grid cell size** and the **Manning's n**
 
 Click **OK**
 
-.. figure:: img/
-
-As you can see, based on the projection, the plugin sets the appropriate unit (metres or feet).
-
-.. figure:: img/settings.png
-	:align: center
-	:alt: Creating a new model database
-
-	Creating a new model database
+As you can see, based on the projection, the plugin sets the appropriate unit (meters or feet).
