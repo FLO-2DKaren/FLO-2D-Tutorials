@@ -29,7 +29,7 @@ Download the plugin from the FLO-2D website
 
 https://flo-2d.com/qgis-plugin/
 
-In QGIS, from the main menu, select **Plugins** > **Manage and Install Plugins **
+In QGIS, from the main menu, select **Plugins** > **Manage and Install Plugins**
 
 From the left panel, select **From Zipped File**
 

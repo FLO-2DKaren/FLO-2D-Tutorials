@@ -14,6 +14,9 @@ Welcome to FLO-2D-Tutorials's documentation!
    Start a project
    Build a Project Domain
    Get the data
+   Create a Grid
+   Sample Elevation from Points
+   Sample Elevation from Raster
 
 
 

@@ -5,7 +5,7 @@ Method 1 From an External Layer
 -------------------------------
 
 1. In order to create a grid, a domain layer must be available.  If a domain layer is not available use this tutorial:
-   :ref:`Build a Computational Domain`
+   :ref:`Build a Project Domain`
 
 2. Click the Create Grid Button
 
@@ -39,7 +39,7 @@ Method 1 From an External Layer
    polygon. Set the grid element size and click *OK* to complete the
    polygon.
 
-|image1|\ |image2|
+|creategrid1|\ |creategrid2|
 
 7. Save the layer and turn off the editor by clicking the Editor tool to
    toggle it off.
