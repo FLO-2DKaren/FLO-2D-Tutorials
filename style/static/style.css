@@ -101,6 +101,7 @@ div.section img {
   margin: 0 2px;
   vertical-align: middle;
   padding: 0.5em 0.5em 0;
+  max-width: 100%;
 }
 
 tt {
