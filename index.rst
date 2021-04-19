@@ -11,9 +11,9 @@ Welcome to FLO-2D-Tutorials's documentation!
    :caption: Contents:
 
    Installation
-   Start a Project
+   Start a project
    Build a Project Domain
-   Get the Data
+   Get the data
 
 
 
