@@ -39,7 +39,7 @@ Method 1 From an External Layer
    polygon. Set the grid element size and click *OK* to complete the
    polygon.
 
-|image1|\ |image2|
+|creategrid1|\ |creategrid2|
 
 7. Save the layer and turn off the editor by clicking the Editor tool to
    toggle it off.
