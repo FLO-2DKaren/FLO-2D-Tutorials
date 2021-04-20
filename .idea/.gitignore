@@ -1,3 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+/misc.xml
+/_build/
+/main.py
+/venv/
+/.idea/
